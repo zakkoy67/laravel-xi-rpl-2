@@ -558,7 +558,7 @@
     </div>
   </div>
 </div>
-
+  
     @include('Tamplate.separate.footer');
 
             </div>
