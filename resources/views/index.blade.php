@@ -17,7 +17,7 @@
     <a class="nav-link" href="/project/contact">contact</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link disabled" aria-disabled="true"></a>
+    <a class="nav-link disabled" aria-disabled="true"></a>ini
   </li>
 </ul>
 <!-- ini main -->
